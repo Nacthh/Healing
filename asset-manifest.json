@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Healing/static/css/main.36789234.css",
+    "main.js": "/Healing/static/js/main.37ec6d1d.js",
+    "static/js/787.5c39024c.chunk.js": "/Healing/static/js/787.5c39024c.chunk.js",
+    "static/media/tangkuban1.jpeg": "/Healing/static/media/tangkuban1.154f523580b0df556b10.jpeg",
+    "static/media/Dufan2.jpeg": "/Healing/static/media/Dufan2.923a420514c7784dcc6d.jpeg",
+    "static/media/12.jpg": "/Healing/static/media/12.257c5311e1cae5638aad.jpg",
+    "static/media/dufan.jpeg": "/Healing/static/media/dufan.f58a70734f9874b1cd4b.jpeg",
+    "static/media/pulauseribu.jpeg": "/Healing/static/media/pulauseribu.5d095e9d9ea758ab34c2.jpeg",
+    "static/media/tamansafari.jpeg": "/Healing/static/media/tamansafari.8dbbc60c95eca87813cd.jpeg",
+    "static/media/maribaya.jpeg": "/Healing/static/media/maribaya.dbd7a69697fca5c5dd07.jpeg",
+    "static/media/kawahputih1.jpeg": "/Healing/static/media/kawahputih1.cf2d72d20153b1813bdf.jpeg",
+    "static/media/ujunggenteng.jpeg": "/Healing/static/media/ujunggenteng.7ed3443a9caec0ba15d8.jpeg",
+    "static/media/kawahputih2.jpeg": "/Healing/static/media/kawahputih2.3697b1f8b96ac922bfe2.jpeg",
+    "static/media/canyon.jpeg": "/Healing/static/media/canyon.768c4639496785236325.jpeg",
+    "static/media/deranch.jpeg": "/Healing/static/media/deranch.a9374a24f23db046b64e.jpeg",
+    "static/media/tangkuban2.jpeg": "/Healing/static/media/tangkuban2.1129fdce585e090f11ad.jpeg",
+    "static/media/logo.svg": "/Healing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Healing/index.html",
+    "main.36789234.css.map": "/Healing/static/css/main.36789234.css.map",
+    "main.37ec6d1d.js.map": "/Healing/static/js/main.37ec6d1d.js.map",
+    "787.5c39024c.chunk.js.map": "/Healing/static/js/787.5c39024c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36789234.css",
+    "static/js/main.37ec6d1d.js"
+  ]
+}
